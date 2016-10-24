@@ -11,10 +11,11 @@
 
 <!-- MAIN CONTENT -->
 
-#Introduction
+### Introduction ###
 
 In recent years, interest in natural resources, environmental damage, and economic growth has steadily grown, and is often discussed in the field of environmental economics and development economics. In this paper we will briefly discuss these two disciplines, and introduce the topic of the resource curse. The resource curse states that countries largely endowed with natural resources, tend to have low economic development. This issue is related to both environmental and development economics, and incredibly important to understand in the context of sustainable economic development. Much research has been performed on the topic of the resources curse, and on its impact on economic development, but there is no general agreement regarding whether it actually exists. In the final section, the supporters and opponents of this debate will be presented, along with practical issues and questions regarding the resource curse. 
 
+--------------------------------
 
 ###Environmental Economics
 Environmental economics discusses the link between environment and economics, and includes various issues such as environmental degradation, trade-offs between economic goods and environmental quality, monetary values of environmental goods, limits to growth, sustainable development, resource conservation, and much more. The existing concerns with natural resources and environmental damage have increased economists’ awareness of the natural environment in which economics takes place, both as a source of resources and as a trash belt for wastes (Harris, 1996). Together with the increase in pollution, these trends led to the development of environmental economics in the 1960s (CeDEP, 2016). As the economy cannot grow sustainably indefinitely, environmental economists propose a system which incorporates the natural environment in which we live. This discipline has been developed within a neoclassical paradigm, focusing on market failures, inappropriate resource allocation, and the management of public goods. Alternatively, a different environmental approach to economics arose in the form of ecological economics. Academics in this field view the relationship between economics and the environment as central, and support a strong view of sustainability. This view of sustainability states that human and natural capital are complementary, and not substitutable.
