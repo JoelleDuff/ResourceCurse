@@ -1,15 +1,15 @@
-<!-- HEADER -->
+
 Resource Curse Canon Assignment
 ================
 
 ![](http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg)
 - - -
-- 
+
 
 ****************
-
-
 <!-- MAIN CONTENT -->
+<div id="main_content_wrap" class="outer">
+<section id="main_content" class="inner">
 
 #Introduction
 
@@ -59,3 +59,6 @@ Another classic paper on the resource curse was written by Sachs and Warner (200
 
 </section>
 </main_content>
+</div>
+</body>
+</style>
