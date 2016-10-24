@@ -1,14 +1,8 @@
-<head>
 ![](http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg)
-
-</head>
-
 -------------------------------
 ********************
 #################################
 
-
-<body>
 #Introduction
 
 In recent years, interest in natural resources, environmental damage, and economic growth has steadily grown, and is often discussed in the field of environmental economics and development economics. In this paper we will briefly discuss these two disciplines, and introduce the topic of the resource curse. The resource curse states that countries largely endowed with natural resources, tend to have low economic development. This issue is related to both environmental and development economics, and incredibly important to understand in the context of sustainable economic development. Much research has been performed on the topic of the resources curse, and on its impact on economic development, but there is no general agreement regarding whether it actually exists. In the final section, the supporters and opponents of this debate will be presented, along with practical issues and questions regarding the resource curse. 
@@ -53,5 +47,3 @@ Besides all the economical mechanisms behind the resource curse, there are also 
 Norway is one of the many examples of how it should be done. As the classic paper by Gavin Wright and Jesse Czelusta (2004) ‘The myth of the resource curse’ shows, Norway uses its knowledge regarding deep-water drilling platforms to create a new export good. Thus, instead of neglecting the export manufacturing sector Norway finds a way to expand it. Other solutions to the resource curse have to do with the way of spending the resource revenues. Looking at some of the described mechanisms of the resource curse, the solution might look obvious: ensure that the resource revenue is use to create tangible assets, assets that are of use for the country. One of the best examples is infrastructure, since the government uses the revenues from the natural resources to invest in the economy, thereby creating growth in other sectors too. This is known as the absorptive capacity of the country, since the growth of these investments can directly negate the negative effects of the Dutch disease. Furthermore, such investments help counter inefficient spending by only focusing on growth-enhancing investments and overcoming weak institutions, and by not enabling the elite in “capturing” resource revenues. This is a proficient way to prevent or minimize the resource curse.
 
 Another classic paper on the resource curse was written by Sachs and Warner (2001), called ‘Natural resources and economic development: the curse of natural resources’. According to this paper, empirical support for the resource curse is actually pretty strong. Sachs and Warner (2001) believe that the resource curse exists because the phenomenon is not easily explained by other variables or other ways of measuring resource abundance. In their paper, they show how little direct evidence exists that there is an omitted variable bias from unobserved geographical or climate variables or another omitted growth deterrent that could explain the resource curse. Sachs and Warner (2001) believe the resource curse is mainly explained by the fact that countries that are abundant in natural resources tend to have high prices, which result in less exports. This ultimately leads to countries having less economic growth.
-
-</body>
