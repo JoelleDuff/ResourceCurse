@@ -1,5 +1,6 @@
-
+<!-- HEADER -->
 ![](http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg)
+</header>
 
 #Introduction
 
