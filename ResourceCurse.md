@@ -1,11 +1,12 @@
 <!-- HEADER -->
-% Resource Curse 
+Resource Curse Canon Assignment
+================
 
 ![](http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg)
 
-</section>
-</header>
-=============================
+======
+
+****************
 
 
 <!-- MAIN CONTENT -->
