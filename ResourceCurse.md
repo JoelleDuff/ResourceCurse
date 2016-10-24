@@ -2,6 +2,8 @@
 ![](http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg)
 </header>
 
+-------------------------------
+<!-- BODY -->
 #Introduction
 
 In recent years, interest in natural resources, environmental damage, and economic growth has steadily grown, and is often discussed in the field of environmental economics and development economics. In this paper we will briefly discuss these two disciplines, and introduce the topic of the resource curse. The resource curse states that countries largely endowed with natural resources, tend to have low economic development. This issue is related to both environmental and development economics, and incredibly important to understand in the context of sustainable economic development. Much research has been performed on the topic of the resources curse, and on its impact on economic development, but there is no general agreement regarding whether it actually exists. In the final section, the supporters and opponents of this debate will be presented, along with practical issues and questions regarding the resource curse. 
@@ -47,3 +49,4 @@ Norway is one of the many examples of how it should be done. As the classic pape
 
 Another classic paper on the resource curse was written by Sachs and Warner (2001), called ‘Natural resources and economic development: the curse of natural resources’. According to this paper, empirical support for the resource curse is actually pretty strong. Sachs and Warner (2001) believe that the resource curse exists because the phenomenon is not easily explained by other variables or other ways of measuring resource abundance. In their paper, they show how little direct evidence exists that there is an omitted variable bias from unobserved geographical or climate variables or another omitted growth deterrent that could explain the resource curse. Sachs and Warner (2001) believe the resource curse is mainly explained by the fact that countries that are abundant in natural resources tend to have high prices, which result in less exports. This ultimately leads to countries having less economic growth. 
 
+</body>
