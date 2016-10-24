@@ -1,29 +1,5 @@
 
-<head>
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
-<title>RESOURCE CURSE</title>
-</head>
-
-
-<body>
-<!-- HEADER -->
-<div id="header_wrap" class="outer">
-<header class="inner">
-          
-
-<h1 id="project_title">Resource Curse <br /> Sustainability and Growth <br /> Autumn 2016 </h1>
-            
-</section>
-</header>
-</div>
-
-<!-- MAIN CONTENT -->
-<div id="main_content_wrap" class="outer">
-<section id="main_content" class="inner">
 ![](http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg)
-
-
-<hr />
 
 # Introduction
 
@@ -70,11 +46,3 @@ Norway is one of the many examples of how it should be done. As the classic pape
 
 Another classic paper on the resource curse was written by Sachs and Warner (2001), called ‘Natural resources and economic development: the curse of natural resources’. According to this paper, empirical support for the resource curse is actually pretty strong. Sachs and Warner (2001) believe that the resource curse exists because the phenomenon is not easily explained by other variables or other ways of measuring resource abundance. In their paper, they show how little direct evidence exists that there is an omitted variable bias from unobserved geographical or climate variables or another omitted growth deterrent that could explain the resource curse. Sachs and Warner (2001) believe the resource curse is mainly explained by the fact that countries that are abundant in natural resources tend to have high prices, which result in less exports. This ultimately leads to countries having less economic growth. 
 
-
-<hr />
-
-</section>
-</main_content>
-</div>
-</body>
-</style>
