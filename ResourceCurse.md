@@ -9,17 +9,12 @@
 <div id="header_wrap" class="outer">
 <header class="inner">
           
-<img style="float: right;" alt="" src="http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg">  
 <h1 id="project_title">Resource Curse Canon<br /> Sustainability and Growth<br /> Autumn 2016 </h1>
-</div>  
+<img style="float: middle;" alt="" src="http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg">  
             
 </section>
 </header>
 </div>
-
-
-![]()
-- - -
 
 
 ****************
