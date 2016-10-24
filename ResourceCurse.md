@@ -1,7 +1,7 @@
 
 ![](http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg)
 
-# Introduction
+#Introduction
 
 In recent years, interest in natural resources, environmental damage, and economic growth has steadily grown, and is often discussed in the field of environmental economics and development economics. In this paper we will briefly discuss these two disciplines, and introduce the topic of the resource curse. The resource curse states that countries largely endowed with natural resources, tend to have low economic development. This issue is related to both environmental and development economics, and incredibly important to understand in the context of sustainable economic development. Much research has been performed on the topic of the resources curse, and on its impact on economic development, but there is no general agreement regarding whether it actually exists. In the final section, the supporters and opponents of this debate will be presented, along with practical issues and questions regarding the resource curse. 
 
