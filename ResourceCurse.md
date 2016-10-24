@@ -1,6 +1,21 @@
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<title>RESOURCE CURSE</title>
+</head>
 
-Resource Curse Canon Assignment
-================
+
+<body>
+<!-- HEADER -->
+<div id="header_wrap" class="outer">
+<header class="inner">
+          
+
+<h1 id="project_title">Resource Curse Canon<br /> Sustainability and Growth<br /> Autumn 2016 </h1>
+            
+</section>
+</header>
+</div>
+
 
 ![](http://i2.wp.com/blogs.lse.ac.uk/africaatlse/files/2015/03/Kenya_resources.jpg)
 - - -
