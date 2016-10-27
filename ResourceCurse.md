@@ -124,7 +124,7 @@ If interested, you can find more information about the argument against the exis
 
 *  <a href="http://www.sciencedirect.com/science/article/pii/S0095069608000193">Brunnschweiler, C. and Bulte, E. (2008)</a>
 
-*  <a href="http://www.cambridge.org/nl/academic/subjects/politics-international-relations/comparative-politics/oil-not-curse-ownership-structure-and-institutions-soviet-successor-states?format=HB&isbn=9780521765770">Luong, P. and Weinthal E. (2010)</a>
+*  <a href="https://www.amazon.com/Oil-Not-Curse-Institutions-Comparative/dp/0521148081">Luong, P. and Weinthal E. (2010)</a>
 
 *  <a href="http://web.mit.edu/rigobon/www/Robertos_Web_Page/Research_files/resourcecurse.pdf">Manzano, O., & Rigobon, R. (2001)</a>
  
