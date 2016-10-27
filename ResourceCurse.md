@@ -1,4 +1,5 @@
 <head>
+<meta name="description" content="Resource Curse : ">
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <title>RESOURCE CURSE</title>
 </head>
@@ -74,7 +75,8 @@ This revenue volatility creates difficulties for a government to properly budget
 
 ##Institutions
 
-Besides the basic economic mechanisms behind the resource curse, there are also some non-economic mechanisms which affect development in resource rich countries. Institutions, or the lack of good institutions, might also cripple a country in its development, and are therefore of great interest to development economists (<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.5716&rep=rep1&type=pdf">Bourguignon and Verdier, 2000</a>).
+Besides the basic economic mechanisms behind the resource curse, there are also some non-economic mechanisms which affect development in resource rich countries. Institutions, or the lack of good institutions, might also cripple a country in its development, and are therefore of great interest to development economists 
+(<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.5716&rep=rep1&type=pdf">Bourguignon and Verdier, 2000</a>).
 
 ###*Popular Resource Sovereignty*
 Popular resource sovereignty is a concept that relates to property rights and the ownership of a nation’s natural resources. Article 1 of the International Covenant on Civil and Political Rights, as well as the International Covenant on Economic, Social and Cultural Rights state the following:
