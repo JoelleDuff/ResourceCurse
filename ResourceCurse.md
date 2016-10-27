@@ -152,6 +152,7 @@ As already mentioned the resource curse and the state of institutions are correl
 
 Russia and Kazakhstan were better able to overcome their bad institutions and thus mitigate the effects of the resource curse, as can be seen in this graph of GDP per capita after the fall of the Soviet Union in figure 3.
 
+<a href="http://data.worldbank.org/share/widget?contextual=default&indicators=NY.GDP.PCAP.PP.CD&locations=AZ-TM-UZ-RU-KZ&name_desc=false">GDP per Capita (PPP)</a>
 
 <img style="float: middle;" alt="" src="http://data.worldbank.org/share/widget?contextual=default&indicators=NY.GDP.PCAP.PP.CD&locations=AZ-TM-UZ-RU-KZ&name_desc=false"> 
 
