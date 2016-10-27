@@ -153,7 +153,8 @@ As already mentioned the resource curse and the state of institutions are correl
 Russia and Kazakhstan were better able to overcome their bad institutions and thus mitigate the effects of the resource curse, as can be seen in this graph of GDP per capita after the fall of the Soviet Union in figure 3.
 
 
-<img style="float: middle;" alt="" src="C:\Users\Joelle Duff\Documents\Master\AEA I\ResourceCurseSoviet.png"> 
+<img style="float: middle;" alt="" src="http://data.worldbank.org/share/widget?contextual=default&indicators=NY.GDP.PCAP.PP.CD&locations=AZ-TM-UZ-RU-KZ&name_desc=false"> 
+
 Figure 3 – GDP per Capita former Soviet Union countries
 
 One explanation for their success was the strong enforcement of private property in the oil sector for Russia and Kazakhstan. This made it more difficult for the state to rely on natural resources as its sole revenue base, meaning that they had to develop alternative fiscal resources. Moreover, the private sector were able to use their greater bargaining power to demand better fiscal institutions when property rights for the oil sector were changed, since they suffered from bad ones. So, this example shows that self-determination of resources, adequate property rights, more democratic systems, and overall good institutional quality encourage economic growth and help overcome the resource curse
