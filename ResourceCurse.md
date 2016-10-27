@@ -1,9 +1,10 @@
 <head>
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta name="description" content="Resource Curse : ">
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 <title>RESOURCE CURSE</title>
 </head>
-
 
 <body>
 <!-- HEADER -->
